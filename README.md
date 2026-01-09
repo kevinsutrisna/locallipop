@@ -1,4 +1,12 @@
+# Locallipop
+
 > **Project Status:** This platform was successfully deployed and operational for a 1-year event cycle. While the production server is now decommissioned, the codebase remains fully functional for **Local Development** and technical review.
+
+---
+
+## 📌 Project Overview
+Locallipop is an automated ticketing platform for Bina Nusantara University events. It streamlines the user experience by integrating Google OAuth for quick logins and Xendit API for instant, secure payment processing and ticket issuance.
+
 
 ---
 

@@ -4,13 +4,13 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 Locallipop is an automated ticketing platform for Bina Nusantara University events. It streamlines the user experience by integrating Google OAuth for quick logins and Xendit API for instant, secure payment processing and ticket issuance.
 
 
 ---
 
-## 🏗️ Architecture & Tech Stack
+## Architecture & Tech Stack
 
 * **Core Framework**: Laravel 11 (PHP) & Tailwind CSS.
 * **Authentication**: Secure user onboarding via **Google OAuth API**.
@@ -22,7 +22,7 @@ Locallipop is an automated ticketing platform for Bina Nusantara University even
 
 ---
 
-## 🛠️ Engineering Highlights
+## Engineering Highlights
 
 * **Automated Payment Flow**: Leveraged Xendit Webhooks to handle asynchronous payment status updates, ensuring a reliable "Ticket Issuance" logic upon successful payment.
 * **Access Control**: Implemented strict Role-Based Access Control (RBAC) to separate Administrative management (Event Organizers) from User interactions (Attendees).
@@ -30,7 +30,7 @@ Locallipop is an automated ticketing platform for Bina Nusantara University even
 
 ---
 
-## 🚀 How to Run Locally
+## How to Run Locally
 
 Since the project has transitioned to an archival state, certain API features (Google Login & Xendit) require local configuration of Client IDs/Secrets in your `.env` file.
 

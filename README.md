@@ -1,6 +1,6 @@
 # Locallipop
 
-> **Project Status:** This platform was successfully deployed and operational for a 1-year event cycle. While the production server is now decommissioned, the codebase remains fully functional for **Local Development** and technical review.
+> **Project Status:** This platform was successfully deployed and operational for a 1 year event cycle. While the production server is now decommissioned, the codebase remains fully functional for **Local Development** and technical review.
 
 ---
 
